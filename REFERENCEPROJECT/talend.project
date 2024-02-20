@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_p-HCsdBHEe6wvPustjM2gg" label="referenceProject" description="Proyecto de referencia" language="java" technicalLabel="REFERENCEPROJECT" author="_p-HCstBHEe6wvPustjM2gg" productVersion="Talend Cloud API Services Platform-8.0.1.20240118_0425-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/gmgil/ReferenceProject&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
+    <migrationTask xmi:id="_p_AakNBHEe6wvPustjM2gg" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_p-HCstBHEe6wvPustjM2gg" login="gissete.gil.parra@trial51323.us.talend.com" firstName="Gissete" lastName="Gil Parra" type="DQ"/>
+</xmi:XMI>
